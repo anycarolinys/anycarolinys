@@ -1,7 +1,6 @@
 ### <Hello, world! I am Any Caroliny/> 👋
 ##
 - 👩‍🎓 Computer Science student at the Federal University of Sergipe
-- 🔭 Currently working on Web Development  
 - 😄 Pronouns: she/her
 
 <div align="center">
