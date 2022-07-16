@@ -1,7 +1,7 @@
 ### <Hello, world! I am Any Caroliny/> 👋
 ##
 - 👩‍🎓 Computer Science student at the Federal University of Sergipe
-- 🔍 Researcher in graph algorithms, web development, database, cloud at CNPq.
+- 🔍 Researcher in graph algorithms, web development and database at CNPq.
 -  📝 Lattes: http://lattes.cnpq.br/2981432351105668
 - 😄 Pronouns: she/her
 
