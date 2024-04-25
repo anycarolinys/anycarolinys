@@ -1,7 +1,6 @@
 ### <Hello, world! I am Any Caroliny/> 👋
 ##
 - 👩‍🎓 Computer Science student at the Federal University of Sergipe
-- 🔍 Researcher at CNPq.
 - 📝 Lattes: http://lattes.cnpq.br/2981432351105668
 - 😄 Pronouns: she/her
 
