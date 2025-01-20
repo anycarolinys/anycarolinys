@@ -1,6 +1,6 @@
 ### <Hello, world! I am Any Caroliny/> 👋
 ##
-- 👩‍🎓 Computer Science student at Universidade Federal de Sergipe
+- 👩‍🎓 Data Engineer with a Bachelor's in Computer Science
 - 😄 Pronouns: she/her
 
 <div align="center">
